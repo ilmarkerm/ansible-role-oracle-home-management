@@ -33,4 +33,3 @@ dependencies:
   - ilmarkerm.oracle-install
   - ilmarkerm.oracle-addnode
   - ilmarkerm.oracle-deinstall
-  - ilmarkerm.oracle-list-homes
