@@ -31,6 +31,6 @@ galaxy_info:
 
 dependencies:
   - ilmarkerm.oracle-install
-  - ilamrkerm.oracle-addnode
+  - ilmarkerm.oracle-addnode
   - ilmarkerm.oracle-deinstall
   - ilmarkerm.oracle-list-homes
